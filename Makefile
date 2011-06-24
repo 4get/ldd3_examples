@@ -1,4 +1,6 @@
 
+CROSS_COMPILE=""
+
 SUBDIRS =  misc-progs misc-modules \
            skull scull scullc sculld scullp scullv sbull snull\
 	   short shortprint pci simple usb tty lddbus
